@@ -13,5 +13,6 @@
 ### Day 0: June 25, 2018
 
 **Today's Progress**: It's time to start my personal web page in #Nuxt with #VueJS for the server-side rendering and host it in #githubpages buying my personal domain... #javascript!
+[tweet](https://twitter.com/cgonzalezp91/status/1011282205610520576)
 
 **Link to work:** [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
