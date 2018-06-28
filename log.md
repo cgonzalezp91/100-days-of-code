@@ -24,3 +24,10 @@ Started the #GitHub Learning Lab Explorer Challenge and finished. Hoping to rece
 [tweet](https://twitter.com/cgonzalezp91/status/1011667335156060165)
 
 **Link to work:** [GitHub Challenge](https://github.community/t5/GitHub-Learning-Lab-Explorer/Carlos-Learning-Challenge/cns-p/9207)
+
+### Day 2: June 27, 2018
+
+**Today's Progress**: My personal web page already have his section of about and the main page, i started to use #vuex for the communications between components and #sass to pre-complie my #css styles with the help of #platzi, also i already apply #mediaquerys for the responsive
+[tweet](https://twitter.com/cgonzalezp91/status/1012103964240773126)
+
+**Link to work:** [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
