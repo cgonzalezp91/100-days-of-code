@@ -31,3 +31,10 @@ Started the #GitHub Learning Lab Explorer Challenge and finished. Hoping to rece
 [tweet](https://twitter.com/cgonzalezp91/status/1012103964240773126)
 
 **Link to work:** [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
+
+### Day 3 - 4: June 28 - 29, 2018
+
+**Today's Progress**: I been taking a course about #sass in @platzi so i can organize all the colors, font's, etc about my portfolio made in @nuxt_js, the default template is very useful because i am using a full-screen video in all my pages so i only write it once
+[tweet](https://twitter.com/cgonzalezp91/status/1012768584374870016)
+
+**Link to work:** [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
