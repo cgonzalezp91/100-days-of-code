@@ -38,3 +38,12 @@ Started the #GitHub Learning Lab Explorer Challenge and finished. Hoping to rece
 [tweet](https://twitter.com/cgonzalezp91/status/1012768584374870016)
 
 **Link to work:** [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
+
+### Day 5: June 30, 2018
+
+**Today's Progress**: Defining the footer of my personal web page, i use #cssgrid to contain it and put all my social media links in there.
+Also i finish inserting all my @platzi certificates and check all my #mediaquerys so everything i have already created is responsive
+#100DaysOfCode @nuxt_js
+[tweet](https://twitter.com/cgonzalezp91/status/1013138903941959680)
+
+**Link to work:** [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
