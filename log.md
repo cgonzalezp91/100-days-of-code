@@ -47,3 +47,10 @@ Also i finish inserting all my @platzi certificates and check all my #mediaquery
 [tweet](https://twitter.com/cgonzalezp91/status/1013138903941959680)
 
 **Link to work:** [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
+
+### Day 6 - 7: July 1 - 2, 2018
+
+**Today's Progress**:Yesterday i created an account in @freeCodeCamp and check it all the stuff that the CodeCamp have, It's very interesting... I helped a fellow developer in his @vuejs project adding some animation transition when moving some tr's of a table. #100DaysOfCode #javascript
+[tweet](https://twitter.com/cgonzalezp91/status/1013906595007393793)
+
+**Link to work:** [vue-world-cup](https://github.com/cgonzalezp91/vue-world-cup)
