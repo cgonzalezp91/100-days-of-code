@@ -54,3 +54,17 @@ Also i finish inserting all my @platzi certificates and check all my #mediaquery
 [tweet](https://twitter.com/cgonzalezp91/status/1013906595007393793)
 
 **Link to work:** [vue-world-cup](https://github.com/cgonzalezp91/vue-world-cup)
+
+### Day 8: July 3, 2018
+
+**Today's Progress**:Today i continued my course in @platzi about #Python. I am seeing about function with parameters (declarations and way to use them) Very cool programming lenguaje.
+[tweet](https://twitter.com/cgonzalezp91/status/1014312371840540672)
+
+**Link to work:** ...Creating repository & Uploading in process...
+
+### Day 9: July 4, 2018
+
+**Today's Progress**: I Started a MERN Stack course to create a shopping list thanks to @traversymedia. I already finish the back-end API server in @nodejs with #ExpressJS and the DB created in @MongoDB inside @mlab. Tomorrow i go to the front-end made in @reactjs 
+[tweet](https://twitter.com/cgonzalezp91/status/1013906595007393793)
+
+**Link to work:** [cg-mern-shopping](https://github.com/cgonzalezp91/cg-mern-shopping)
