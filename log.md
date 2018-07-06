@@ -76,3 +76,12 @@ Also i finish inserting all my @platzi certificates and check all my #mediaquery
 
 **Link to work:** ...Creating repository & Uploading in process...
 
+### Day 11: July 6, 2018
+
+**Today's Progress**:  I am half way of my @nodejs server app, i have connected my @SQLServer successfully with the #mssql package and make some query's to check if everything is working.
+I am using #chalkjs and #debugjs to make my console more "pretty" with colors 
+[tweet](https://twitter.com/cgonzalezp91/status/1015362140943863808)
+
+**Link to work:** ...Creating repository & Uploading in process...
+
+
