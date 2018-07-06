@@ -68,3 +68,11 @@ Also i finish inserting all my @platzi certificates and check all my #mediaquery
 [tweet](https://twitter.com/cgonzalezp91/status/1013906595007393793)
 
 **Link to work:** [cg-mern-shopping](https://github.com/cgonzalezp91/cg-mern-shopping)
+
+### Day 10: July 5, 2018
+
+**Today's Progress**: Today i didn't do anything hard, just read a little bit of #javascript, and started a new @nodejs #Rest #Api, but i only installed express and run it, i haven't defined any routes. I take it light today, i need some rest 
+[tweet](https://twitter.com/cgonzalezp91/status/1015017045094752257)
+
+**Link to work:** ...Creating repository & Uploading in process...
+
