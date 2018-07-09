@@ -85,3 +85,10 @@ I am using #chalkjs and #debugjs to make my console more "pretty" with colors
 **Link to work:** ...Creating repository & Uploading in process...
 
 
+### Day 12: July 7, 2018
+
+**Today's Progress**: Day 12 - Today (7) I started a new book of #Javascript, it is really interesting because you see all the world of #ES5 and #ES6 (and we are going to see a bit of #ES7) with a main story of wizards. Is focused for the developers that come form c# autor: @Vintharas
+[tweet](https://twitter.com/cgonzalezp91/status/1015830235152113666)
+
+**Link to work:** [Book](https://leanpub.com/getting-started-with-the-arcane-art-of-javascript-mancy-for-c-sharp-developers)
+
