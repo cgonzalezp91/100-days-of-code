@@ -92,3 +92,9 @@ I am using #chalkjs and #debugjs to make my console more "pretty" with colors
 
 **Link to work:** [Book](https://leanpub.com/getting-started-with-the-arcane-art-of-javascript-mancy-for-c-sharp-developers)
 
+### Day 13 - 14: July 8 - 9, 2018
+
+**Today's Progress**: Day 13 - 14 I keep on my reading of the JavaScript-Mancy, I love the fantasy reference in all of the examples. Also I take a course in @platzi to deploy on @zeithq my personal web page (Demo) but I couldn’t make that the background video works 😤GitHub-Pages rules.
+[tweet](https://twitter.com/cgonzalezp91/status/1016500740985184256)
+
+**Link to work:** [Book](https://leanpub.com/getting-started-with-the-arcane-art-of-javascript-mancy-for-c-sharp-developers) [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
