@@ -112,4 +112,4 @@ I am using #chalkjs and #debugjs to make my console more "pretty" with colors
 **Today's Progress**: Day 17-18 I have a mistake in my previous tweet because of the day of July in where we was. I started a new @reactnative app and i am using @reactnavigation because i need to switch from like 5 pages approx. I have a lot of unfinished projects 😞
 [tweet](https://twitter.com/cgonzalezp91/status/1017841339344580610)
 
-**Link to work:** [Personal WebPage in Now](https://cgonzalezp91.now.sh/), [Personal WebPage in Surge](http://cgonzalezp91.surge.sh/)
+**Link to work:** ...Creating repository & Uploading in process...
