@@ -98,3 +98,18 @@ I am using #chalkjs and #debugjs to make my console more "pretty" with colors
 [tweet](https://twitter.com/cgonzalezp91/status/1016500740985184256)
 
 **Link to work:** [Book](https://leanpub.com/getting-started-with-the-arcane-art-of-javascript-mancy-for-c-sharp-developers) [Personal WebPage](https://github.com/cgonzalezp91/cgonzalezp91.git)
+
+### Day 15 - 16: July 10 - 11, 2018
+
+**Today's Progress**: I already publish a Demo of my personal web page in @surge_sh and in @zeithq (in both because in #now I was having problems with the background video. I implemented some triggers in the @mssqlserver and i learn who to use the deleted and the updated.
+**Mistake in the Days of my tweet**
+[tweet](https://twitter.com/cgonzalezp91/status/1017208321386930176)
+
+**Link to work:** [Personal WebPage in Now](https://cgonzalezp91.now.sh/), [Personal WebPage in Surge](http://cgonzalezp91.surge.sh/)
+
+### Day 17 - 18: July 12 - 13, 2018
+
+**Today's Progress**: Day 17-18 I have a mistake in my previous tweet because of the day of July in where we was. I started a new @reactnative app and i am using @reactnavigation because i need to switch from like 5 pages approx. I have a lot of unfinished projects 😞
+[tweet](https://twitter.com/cgonzalezp91/status/1017841339344580610)
+
+**Link to work:** [Personal WebPage in Now](https://cgonzalezp91.now.sh/), [Personal WebPage in Surge](http://cgonzalezp91.surge.sh/)
