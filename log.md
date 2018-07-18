@@ -114,7 +114,7 @@ I am using #chalkjs and #debugjs to make my console more "pretty" with colors
 
 **Link to work:** ...Creating repository & Uploading in process...
 
-### Day 19 - 20 - 21: July 12 - 13, 2018
+### Day 19 - 20 - 21: July 14 - 15 - 16, 2018
 
 **Today's Progress**: Day 19/20/21 I was so busy this weekend so i couldn't post my progress. I started a new @nodejs CLI (I need to start finishing my projects) for consulting a @mssqlserver DB and sending the responding data through email, i am using @NodemailerJS #chalk #inquirer
 [tweet](https://twitter.com/cgonzalezp91/status/1018884457154170882)
