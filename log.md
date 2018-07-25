@@ -127,3 +127,11 @@ I am using #chalkjs and #debugjs to make my console more "pretty" with colors
 [tweet](https://twitter.com/cgonzalezp91/status/1019608885190189059)
 
 **Link to work:** [NodeMail](https://github.com/cgonzalezp91/NodeMail)
+
+
+### Day 24 - 25 - 26: July 19 - 20 - 21, 2018
+
+**Today's Progress**: Day 24/25/26 I couldn’t post my progress because i get sick :(, I already finish my @nodejs cli, this app is made to connect to a DB (@mssqlserver ) and make some query, you can send this data through email with 2 options, transform to html (table) or to xls file
+[tweet](https://twitter.com/cgonzalezp91/status/1020900879334092801)
+
+**Link to work:** [NodeMail](https://github.com/cgonzalezp91/NodeMail)
