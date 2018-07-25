@@ -119,5 +119,11 @@ I am using #chalkjs and #debugjs to make my console more "pretty" with colors
 **Today's Progress**: Day 19/20/21 I was so busy this weekend so i couldn't post my progress. I started a new @nodejs CLI (I need to start finishing my projects) for consulting a @mssqlserver DB and sending the responding data through email, i am using @NodemailerJS #chalk #inquirer
 [tweet](https://twitter.com/cgonzalezp91/status/1018884457154170882)
 
-**Link to work:** ...Creating repository & Uploading in process...
+**Link to work:** [NodeMail](https://github.com/cgonzalezp91/NodeMail)
 
+### Day 22 - 23: July 17 - 18, 2018
+
+**Today's Progress**: Day 22/23 I almost finish my cli @nodejs Mail app, i love #node because of his great open source community, if i have problem like, transform a json to a html table, i just look for a module and ready, i don't need to do something from zero, just adapt what i found
+[tweet](https://twitter.com/cgonzalezp91/status/1019608885190189059)
+
+**Link to work:** [NodeMail](https://github.com/cgonzalezp91/NodeMail)
